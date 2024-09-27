@@ -15,6 +15,7 @@ anita rock sunriser
 * fourteen swimmers
 
 # conditions
+* 0500S, 0754 2.3F
 * flood
 * high tide of 5.05 feet
 * 2.2kt current
