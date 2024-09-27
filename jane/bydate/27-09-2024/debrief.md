@@ -9,7 +9,6 @@ anita rock sunriser
 
 # pilots
 
-* three boats. i do not remember the other students but
 * jane, heidi, kristen, pieter
 
 # swimmers
