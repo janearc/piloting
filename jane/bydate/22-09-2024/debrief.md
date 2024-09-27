@@ -14,6 +14,7 @@ pier 15/17 sunriser
 * i think four
   
 # conditions
+* 0500S, 0742 2.2E
 
 # remarks
 
