@@ -49,3 +49,5 @@ first part of the swim was very relaxed, and the last 40 minutes things got real
 i think we did a great job managing swimmer migration between pods, but this did happen a lot and took a lot of reorganizing boats, kayaks, and swimmers.
 
 i think we might possibly have been able to do better estimating a swimmer's pace, but i think also that's going to change throughout the swim, and there's no accounting for feed duration or frequency. so given there are a lot of unknowables, i think the system we have is about as good as can be hoped. i'm open to hearing more about quantifying endurance swim pace (>2h).
+
+while i do think callsigns are kind of silly (i guess i know what my gamertag is, but i feel silly calling myself that on the radio), having three kristens was very confusing. i can't yet identify everyone by voice, i still don't know everyone's name, and the radio can be a pain to comprehend because of noise and being stomped on. so "which kristen am i talking to" is.. it's not great. 
